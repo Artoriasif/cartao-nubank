@@ -10,7 +10,7 @@ body {
   flex-direction: column;
   align-items: center;
 }
-
+/* outra forma de chamar uma imagem (por exemplo) e pelo alt dela */
 .container {
   background-color: #820ad1;
   padding: 1em;
